@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kumudjain550@gmail.com**
 
-- 📄 Know about my experiences [https://vit162.examly.io/public-profile?u_id=4835689ff6e7814b70b9bcdeaf0a3d8233d7fcf7&ref_id=21931](https://vit162.examly.io/public-profile?u_id=4835689ff6e7814b70b9bcdeaf0a3d8233d7fcf7&ref_id=21931)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BZsGn0n0vIMBgaEyqbWdgXX0kYSRFrsE/view?usp=sharing](https://drive.google.com/file/d/1BZsGn0n0vIMBgaEyqbWdgXX0kYSRFrsE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
