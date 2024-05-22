@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kumud Jain</h1>
 <h3 align="center">I am a passionate developer, a coder and an enthusiast. I generally love to exploring Computer Science and its related technologies.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/th?id=OIP.LvT2SYUyKPZq4n-nHGJzywHaFG&w=150&h=103&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumudj&label=Profile%20views&color=0e75b6&style=flat" alt="kumudj" /> </p>
 
-- 🌱 I’m currently learning **Django and SQL**
+- 🌱 I’m currently learning **dotnet, SQL Server and Angular**
 
-- 💬 Ask me about **Python, Machine learning and AWS Cloud**
+- 💬 Ask me about **Python, C#, Entity Framework, MSSql, Machine learning and AWS Cloud**
 
 - 📫 How to reach me **kumudjain550@gmail.com**
 
