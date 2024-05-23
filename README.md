@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.wLsrP9n3gdUpTxTezWTOgQAAAA?rs=1&pid=ImgDetMain">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumudj&label=Profile%20views&color=0e75b6&style=flat" alt="kumudj" /> </p>
 
-- 🌱 I’m currently learning **dotnet, SQL Server and Angular**
+- 🌱 I’m currently learning **Dotnet core, SQL Server and Angular**
 
-- 💬 Ask me about **Python, C#, Entity Framework, MSSql, Machine learning and AWS Cloud**
+- 💬 Ask me about **Python, C#, Dotnet Core, Entity Framework, MSSql, Machine learning and AWS Cloud**
 
 - 📫 How to reach me **kumudjain550@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BZsGn0n0vIMBgaEyqbWdgXX0kYSRFrsE/view?usp=sharing](https://drive.google.com/file/d/1BZsGn0n0vIMBgaEyqbWdgXX0kYSRFrsE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16H7y4k3WoSUM99dD1z2xKfDk8XC7zpy0/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
