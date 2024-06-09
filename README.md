@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Python, C#, Dotnet Core, Entity Framework, MSSql, Machine learning and AWS Cloud**
 
-- 📫 How to reach me **kumudjain550@gmail.com**
+- 📫 How to reach me **kumud.jain2023@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16H7y4k3WoSUM99dD1z2xKfDk8XC7zpy0/view?usp=sharing](https://drive.google.com/file/d/16H7y4k3WoSUM99dD1z2xKfDk8XC7zpy0/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mYhtRv_sG0AVHWg8OlhFZTkZo16t-Xam/view?usp=drivesdk](https://drive.google.com/file/d/1mYhtRv_sG0AVHWg8OlhFZTkZo16t-Xam/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
