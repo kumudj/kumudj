@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.wLsrP9n3gdUpTxTezWTOgQAAAA?rs=1&pid=ImgDetMain">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumudj&label=Profile%20views&color=0e75b6&style=flat" alt="kumudj" /> </p>
 
-- 🌱 I’m currently learning Inforiver (Lumel), Tabular Editor and DAX Studio.**
+- 🌱 **I’m currently learning Inforiver (Lumel), Tabular Editor and DAX Studio.**
 
-- 💬 Ask me about Power BI, DAX, Power Query, SQL Server/T-SQL, SSIS, Azure Data Factory, Paginated Reports/SSRS, Inforiver (Lumel), Data Modeling, RLS, Tabular Editor, DAX Studio, VertiPaq Analyzer, AI/LLM integration, MCP, and Azure OpenAI.**
+- 💬 **Ask me about Power BI, DAX, Power Query, SQL Server/T-SQL, SSIS, Azure Data Factory, Paginated Reports/SSRS, Inforiver (Lumel), Data Modeling, RLS, Tabular Editor, DAX Studio, VertiPaq Analyzer, AI/LLM integration, MCP, and Azure OpenAI.**
 
 - 📫 How to reach me **kumudjain550@gmail.com**
 
