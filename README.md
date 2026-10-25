@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **kumudjain550@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mYhtRv_sG0AVHWg8OlhFZTkZo16t-Xam/view?usp=drivesdk](https://drive.google.com/file/d/1mYhtRv_sG0AVHWg8OlhFZTkZo16t-Xam/view?usp=drivesdk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kumud-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumud-jain" height="30" width="40" /></a>
